@@ -1,0 +1,6 @@
+{
+  "name": "AURUM Gaming Hub",
+  "description": "Premium gaming platform featuring Big & Small, arcade and puzzle games, instant QR and UPI deposits, bank withdrawals, verifiable fairness, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
